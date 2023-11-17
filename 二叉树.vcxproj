@@ -127,7 +127,8 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
-    <ClCompile Include="二叉树的链表存储+三种遍历.cpp" />
+    <ClCompile Include="二叉树的链式存储+用栈实现的三种递归遍历.cpp" />
+    <ClCompile Include="二叉树的链表存储+三种递归遍历.cpp" />
     <ClCompile Include="二叉树的顺序存储.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
